@@ -2,10 +2,10 @@ Nirmala Sahani Allam
 ============
 
 -------------------     -------------------------------------------------
-Email                           sahanireddy.allam@gmail.com
-StudID                          Y18IT070
-Phone                           8328699526
-LinkedIn                        [LinkedIn](https://in.linkedin.com/)
+* Email                           sahanireddy.allam@gmail.com
+* StudID                          Y18IT070
+* Phone                           8328699526
+* LinkedIn                        [LinkedIn](https://in.linkedin.com/)
 -------------------     -------------------------------------------------
 
 Education
